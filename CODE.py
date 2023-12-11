@@ -166,4 +166,4 @@ def add_bg_from_url():
 
 add_bg_from_url() 
 
-st.header("Project By Sanjana Singh and Riya Chugh")
+st.header("Project By Pratham Devka")
